@@ -9,7 +9,7 @@
  
 ## Instruções:
 
-### Clone este repositório: git clone : 
+### Clone este repositório: git clone : https://github.com/ErisonFelipe/hsm-dindin-g2
 
 ### Requisitos e Funcionalidades de Projeto:
 
