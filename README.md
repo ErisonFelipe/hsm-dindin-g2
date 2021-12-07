@@ -11,6 +11,8 @@
 
 ### Clone este repositório: git clone : https://github.com/ErisonFelipe/hsm-dindin-g2
 
+### Documentação das Requests: https://documenter.getpostman.com/view/8027011/UVJiiuWy
+
 ### Requisitos e Funcionalidades de Projeto:
 
 ### Repositório no Github com README.md de descrição do projeto, apresentação da equipe e descrição de funcionalidades.
